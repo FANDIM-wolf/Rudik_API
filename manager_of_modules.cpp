@@ -2,11 +2,12 @@
 #include <iostream>
 #include <string>
 #include <fstream>
+
 /*
 	get all modules
 */
 
-#include "thermometer_module.cpp";
+#include "modules/thermometer_module.cpp";
 
 /*
 Manager of proccess 
